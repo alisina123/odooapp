@@ -8,8 +8,8 @@
         Extend Inventory Module to Match  Inventory Management Needs
     """,
     'category': 'Inventory',
-    'author': 'Dev Code',
-    'maintainer': 'Dev Code',
+    'author': 'Alisina Sadat',
+    'maintainer': 'Alisina Sadat',
     'images': ['static/product_low.png'],
     'depends': ['stock',  'product'],
     'data': [
